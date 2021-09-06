@@ -4,6 +4,10 @@ https://revolve.training/formations/architecting-on-aws-8/?gclid=EAIaIQobChMIlt6
 
 http://training-class.akiros.it/terraform/
 
+https://www.youtube.com/watch?v=RSXmQMceyzs
+
+https://kodelabs.gitlab.io/k3g/#0
+
 
 ### TP-5 : [correction] code utilisé
 
