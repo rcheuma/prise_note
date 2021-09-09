@@ -163,3 +163,53 @@ RUN apt-get update && apt-get install -y ffmpeg
 WORKDIR /var/www
 
 EXPOSE 9000
+
+######################################################################################################################
+
+Dans le cadre du développement de notre activité web e-Commerce, nous recherchons pour notre site de Bordeaux un(e) Ingénieur DevOps junior F/H.
+Au sein d'une équipe DevOps, vous avez en charge la conception, la construction et la garantie technique des services web et e-commerce d'acteurs majeurs de l'économie numérique en France et à l'international.
+Vos missions consisteront à :
+•Participer à la conception et au chiffrage des solutions dans le cadre de l'avant-vente
+•Construire les services et en assurer la garantie technique (disponibilité, continuité, capacité et sécurité).
+•Intervenir en expertise de niveau 3 dans le cadre des opérations complexes ou sur les incidents des services de votre portefeuille
+•Au sein de l'équipe, prendre en charge des missions de capitalisation des bonnes pratiques techniques ou méthodologiques, participer à la vie de l'équipe
+•Conseiller nos clients sur leurs choix techniques et technologiques
+•Contribuer au déploiement des pratiques DevOps au sein de l'entreprise
+Dans le cadre de vos missions :
+•Vous pourrez être amené(e) lors d'événements ponctuels à intervenir durant des opérations de nuit ou à assurer des astreintes de niveau 3.
+•Vous pourrez être amené(e) à vous rendre ponctuellement chez nos clients.
+Vous êtes diplômé(e) d'une école d'ingénieur ou êtes issue d'une formation équivalente en informatique (niveau Bac + 5).
+
+Dans l'idéal, vous êtes à l'origine d'un SysAdmin (NetAdmin serait un plus) sur un environnement OnPremise/Datacenter outillé avec des logiciels open source.
+Vous avez déjà participé au design d'infrastructures (traditionnelles et cloud-natives) et à leur mise en oeuvre, dans un contexte Web/E-commerce notamment.
+Vos priorités sont la sécurité, la disponibilité, la scalabilité, et la maintenabilité.
+Vous êtes intéressé(e) par la CI/CD et êtes motivé(e) par la philosophie et les pratiques DEVOPS.
+
+Vous travaillerez dans cet environnement technique qui sera amené à évoluer:
+Système : Debian, Redhat, CentOs
+Virtualisation et conteneurisation : VMWare, Docker, Kubernetes
+Serveurs Web : Apache, Tomcat, Nginx, IIS
+Bases de données : Mysql, Oracle, SQL Server
+Solutions E-commerce : Hybris, ATG
+Environnements Cloud : OpenStack, Flexible Engine, Azure, AWS, GCP
+Outils CI/CD : Git, Gitlab, Jenkins
+Outils d'IAC : Ansible, Puppet, Salt, Terraform
+Monitoring : Xymon, Prometheus
+
+###################################################################################
+
+Compétences techniques :
+
+Système : Debian, Redhat, CentOs
+
+Virtualisation et conteneurisation : VMWare, Docker, Kubernetes
+
+Serveurs Web : Apache, Tomcat, Nginx, IIS
+
+Bases de données : Mysql, Oracle, SQL Server
+
+Environnements Cloud : OpenStack, Flexible Engine, Azure, AWS, GCP
+
+Outils CI/CD : Git, Gitlab, Jenkins
+
+Outils d'IAC : Ansible, Salt, Terraform
