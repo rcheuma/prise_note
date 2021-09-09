@@ -213,3 +213,6 @@ Environnements Cloud : OpenStack, Flexible Engine, Azure, AWS, GCP
 Outils CI/CD : Git, Gitlab, Jenkins
 
 Outils d'IAC : Ansible, Salt, Terraform
+
+https://lehollandaisvolant.net/?d=2017/02/13/16/36/20-linux-rendre-le-terminal-plus-lisible
+
