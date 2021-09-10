@@ -218,3 +218,5 @@ https://lehollandaisvolant.net/?d=2017/02/13/16/36/20-linux-rendre-le-terminal-p
 
 https://www.youtube.com/watch?v=kzmvwc2q_z0&list=PLn6POgpklwWoCpLKOSw3mXCqbRocnhrh-
 
+git fetch && git reset --hard && git pull
+
