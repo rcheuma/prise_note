@@ -1,5 +1,5 @@
 
-
+https://docker.labs.eazytraining.fr/
 https://revolve.training/formations/architecting-on-aws-8/?gclid=EAIaIQobChMIlt6Nt73i8gIVVODtCh1D2wxZEAAYASAAEgKIGvD_BwE
 
 http://training-class.akiros.it/terraform/
