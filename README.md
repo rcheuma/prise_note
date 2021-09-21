@@ -220,3 +220,14 @@ https://www.youtube.com/watch?v=kzmvwc2q_z0&list=PLn6POgpklwWoCpLKOSw3mXCqbRocnh
 
 git fetch && git reset --hard && git pull
 
+https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC
+
+- name: Mon playbook
+  hosts: all
+  remote_user: admin
+  vars:
+    var1: "playbook"
+  tasks:
+  - name: Mon debug
+    debug:
+      msg: "{{ var1 }}"
