@@ -240,3 +240,6 @@ https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyV
       https://opportunity.linkedin.com/fr-fr/skills-for-in-demand-jobs
 
       https://opportunity.linkedin.com/fr-fr/skills-for-in-demand-jobs
+
+      https://thishosting.rocks/unix-vs-linux/
+
