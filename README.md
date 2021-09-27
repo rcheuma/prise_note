@@ -231,3 +231,8 @@ https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyV
   - name: Mon debug
     debug:
       msg: "{{ var1 }}"
+
+      outils de collaboration 
+      https://www.linkedin.com/learning/paths/maitriser-les-soft-skills-les-plus-demandes?trk=li-jobsindemand-softskills-fr&src=re-other&veh=www.dealabs.com
+
+      https://www.dealabs.com/groupe/services-divers
