@@ -236,3 +236,5 @@ https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyV
       https://www.linkedin.com/learning/paths/maitriser-les-soft-skills-les-plus-demandes?trk=li-jobsindemand-softskills-fr&src=re-other&veh=www.dealabs.com
 
       https://www.dealabs.com/groupe/services-divers
+
+      https://opportunity.linkedin.com/fr-fr/skills-for-in-demand-jobs
