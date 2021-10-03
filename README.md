@@ -224,8 +224,34 @@ https://www.youtube.com/watch?v=kzmvwc2q_z0&list=PLn6POgpklwWoCpLKOSw3mXCqbRocnh
 
 git fetch && git reset --hard && git pull
 
-10.0.0.0 ansible_user=admin ansible_password=admin ansible_ssh_common_args='-o StrictHostKeyChecking=no'
-ansible -i hosts all -m ping --one-line 
 
-ansible -i hosts all -m command -a uptime
+https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC
+
+- name: Mon playbook
+  hosts: all
+  remote_user: admin
+  vars:
+    var1: "playbook"
+  tasks:
+  - name: Mon debug
+    debug:
+      msg: "{{ var1 }}"
+
+      outils de collaboration 
+      https://www.linkedin.com/learning/paths/maitriser-les-soft-skills-les-plus-demandes?trk=li-jobsindemand-softskills-fr&src=re-other&veh=www.dealabs.com
+
+      https://www.dealabs.com/groupe/services-divers
+
+      https://opportunity.linkedin.com/fr-fr/skills-for-in-demand-jobs
+
+      https://opportunity.linkedin.com/fr-fr/skills-for-in-demand-jobs
+
+      https://thishosting.rocks/unix-vs-linux/
+
+      https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC
+
+https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC
+
+https://microsoftedge.microsoft.com/addons/detail/video-downloadhelper/jmkaglaafmhbcpleggkmaliipiilhldn
+>>>>>>> 0817b5d62b76719462e05ea1d2a79ded03e14b35
 
