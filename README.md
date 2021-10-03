@@ -1,4 +1,7 @@
 
+
+https://cloudmesh.github.io/classes/lesson/devops/ansible/ansible-appendix.html 
+https://docs.ansible.com/ansible/2.5/modules/lvg_module.html
 https://docker.labs.eazytraining.fr/
 https://revolve.training/formations/architecting-on-aws-8/?gclid=EAIaIQobChMIlt6Nt73i8gIVVODtCh1D2wxZEAAYASAAEgKIGvD_BwE
 
@@ -29,6 +32,7 @@ ansible_host: 10.0.0.4
 cat group_vars/prod.yml
 ansible_user: admin
 ansible_password: admin
+
 
 
 
@@ -219,4 +223,9 @@ https://lehollandaisvolant.net/?d=2017/02/13/16/36/20-linux-rendre-le-terminal-p
 https://www.youtube.com/watch?v=kzmvwc2q_z0&list=PLn6POgpklwWoCpLKOSw3mXCqbRocnhrh-
 
 git fetch && git reset --hard && git pull
+
+10.0.0.0 ansible_user=admin ansible_password=admin ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+ansible -i hosts all -m ping --one-line 
+
+ansible -i hosts all -m command -a uptime
 
