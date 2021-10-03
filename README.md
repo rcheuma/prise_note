@@ -1,6 +1,8 @@
 
 
 https://cloudmesh.github.io/classes/lesson/devops/ansible/ansible-appendix.html 
+https://docs.ansible.com/ansible/latest/collections/community/general/lvg_module.html 
+https://cloudmesh.github.io/classes/lesson/devops/ansible/ansible-appendix.html 
 https://docs.ansible.com/ansible/2.5/modules/lvg_module.html
 https://docker.labs.eazytraining.fr/
 https://revolve.training/formations/architecting-on-aws-8/?gclid=EAIaIQobChMIlt6Nt73i8gIVVODtCh1D2wxZEAAYASAAEgKIGvD_BwE
